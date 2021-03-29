@@ -1,0 +1,84 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-color:#485358ba;  
+    font-family: 'Arial';  
+}  
+.register{  
+        width: 382px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+        background: #467269;  
+        border-radius: 15px ;  
+          
+}
+h2{  
+    text-align: center;  
+    color: #03181b;  
+    padding: 20px;  
+}  
+label{
+    color: #4e3715;  
+    font-size: 17px;  
+}  
+#full{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#user{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#mailid{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+} 
+#pass{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#city{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#pin{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+} 
+#date{  
+    width: 300px;  
+    height: 30px;  
+    border: none; 
+    color: #113029; 
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+span{  
+    color: white;  
+    font-size: 17px;  
+}  
+a{  
+    float: centre;  
+    /* background-color: rgb(155, 143, 143);   */
+}  
